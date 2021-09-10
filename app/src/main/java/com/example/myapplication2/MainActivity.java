@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Retrofit rf = new Retrofit.Builder().build();
 
+        //Yo I am doing this from more efficient and its remote desktop thing.
 
 
     }
